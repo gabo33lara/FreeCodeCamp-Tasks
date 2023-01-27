@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/gabo33lara/FreeCodeCamp-Tasks",
+  "homepage": "https://gabo33lara.github.io/FreeCodeCamp-Tasks",
   "name": "fcc-tasks",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

@@ -1,0 +1,47 @@
+.task-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.task-input {
+    width: 490px;
+    height: 65px;
+    font-size: 18px;
+    background: #fff;
+    padding: 14px 32px 14px 16px;
+    border: 2px solid #00471b;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+}
+
+.task-btn {
+    height: 65px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    color: #fff;
+    background: #00471b;
+    padding: 16px;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    transition: .3s all;
+}
+
+.task-btn:hover {
+    background: #5a01a7;
+}
+
+@media (min-width: 320px) and (max-width: 698px) {
+    .task-input {
+        width: 80%;
+    }
+
+    .task-btn {
+        width: 20%;
+        padding: 5px;
+    }
+  }

@@ -1,0 +1,15 @@
+.logo-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.logo {
+    max-width: 500px;
+    height: auto;
+}
+
+@media (min-width: 320px) and (max-width: 698px) {
+    .logo {
+        max-width: 380px;
+    }
+}

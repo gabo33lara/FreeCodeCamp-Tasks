@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gabo33lara/FreeCodeCamp-Tasks/static/css/main.ecd6c0ad.css",
+    "main.js": "/gabo33lara/FreeCodeCamp-Tasks/static/js/main.0a9567da.js",
+    "static/js/787.8cb19fdc.chunk.js": "/gabo33lara/FreeCodeCamp-Tasks/static/js/787.8cb19fdc.chunk.js",
+    "static/media/freecodecamp-logo.png": "/gabo33lara/FreeCodeCamp-Tasks/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/gabo33lara/FreeCodeCamp-Tasks/index.html",
+    "main.ecd6c0ad.css.map": "/gabo33lara/FreeCodeCamp-Tasks/static/css/main.ecd6c0ad.css.map",
+    "main.0a9567da.js.map": "/gabo33lara/FreeCodeCamp-Tasks/static/js/main.0a9567da.js.map",
+    "787.8cb19fdc.chunk.js.map": "/gabo33lara/FreeCodeCamp-Tasks/static/js/787.8cb19fdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd6c0ad.css",
+    "static/js/main.0a9567da.js"
+  ]
+}
